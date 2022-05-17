@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @willswindells
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Python, SQL, GO
-- 💞️ I’m looking to collaborate on Basic stuff
+- 🌱 I’m currently learning Python, react, SQL, GO
 - 📫 How to reach me ...
 
 <!---
